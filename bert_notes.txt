@@ -1,0 +1,27 @@
+hugging face git: https://github.com/huggingface/transformers/tree/master/notebooks
+
+Transformer blogs:
+
+https://huggingface.co/transformers/model_doc/roberta.html#tfrobertafortokenclassification
+
+http://jalammar.github.io/illustrated-transformer/
+
+https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_multi_label_classification.ipynb
+
+https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04
+
+https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
+
+https://towardsdatascience.com/multi-label-classification-using-bert-roberta-xlnet-xlm-and-distilbert-with-simple-transformers-b3e0cda12ce5
+
+https://medium.com/atheros/text-classification-with-transformers-in-tensorflow-2-bert-2f4f16eff5ad
+
+
+Transformer related codes:
+
+https://github.com/ThilinaRajapakse/simpletransformers
+
+
+Text classification using Tensorflow:
+
+https://www.tensorflow.org/tutorials/keras/text_classification
